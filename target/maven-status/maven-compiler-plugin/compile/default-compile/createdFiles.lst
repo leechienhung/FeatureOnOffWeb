@@ -1,0 +1,3 @@
+com/web/configuration/WebAppInitializer.class
+com/web/controller/HelloController.class
+com/web/configuration/HelloConfiguration.class
